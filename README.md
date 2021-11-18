@@ -91,12 +91,19 @@ I have demonstrated postman testing in my pdf document.
 
 ## Abstraction of the gradle projects that I have learnt from the assignment
 There are mainly two types of Java projects using building tools. They are gradle java projects and maven java projects
+
 Gradle projects are more popular by these days due to their performance and usabilityness 
+
 when it comes to the gradle project they have their own file structure and most important thing is these project can be run on any platform.
+
 there are two files called gradlew and gradlew.bat. gradlew can be used to build your project using your shell. gradlew.bat can be used to build the project by using the windows command prompt
+
 if you want to run a gradle project you need to install gradle in your machine. but the peoject is consist with gradle wrapper you dont need to install gradle in your machine
+
 because the project is run on the graddle version intended in the wrapper
+
 This gradle file structure consist with testing module also. by using this you can do integration and unit testing
+
 Build.gradle consist with repositeries and dependencies. If you want to add new dependancy you can add the new one at there.
 
 
